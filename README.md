@@ -4,13 +4,12 @@
 
 ## Speed ##
 example of 29 hour m4b file done in 51 seconds
-================ COMPRESSION REPORT ================
+ COMPRESSION REPORT 
 Original File Size:   816.13 MB
 Compressed File Size: 195.53 MB
 Size Reduction:       76.0% smaller
 Compression Ratio:    4.2:1
 Total Processing Time:51.28 seconds
-====================================================
 
 
 # FFmpeg MultiCPU Opus
